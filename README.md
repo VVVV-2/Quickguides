@@ -3,4 +3,4 @@ Quickguides serves as a tourist guide to local places and activities. It lets th
 
 https://quickguides.se/
 
-![alt text](http://ejma.nu/external/quickguides.png)
+![alt text](http://ejma.nu/external/quickguides.jpg)
